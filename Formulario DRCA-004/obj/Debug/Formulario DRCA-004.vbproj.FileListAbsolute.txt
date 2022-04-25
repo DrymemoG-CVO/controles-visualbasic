@@ -1,0 +1,12 @@
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.exe.config
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.exe
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.pdb
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\bin\Debug\Formulario DRCA-004.xml
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.vbprojResolveAssemblyReference.cache
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario_DRCA_004.Form1.resources
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario_DRCA_004.Resources.resources
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.vbproj.GenerateResource.Cache
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.exe
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.xml
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario DRCA-004.pdb
+C:\Users\dryme\Desktop\Progra\5C\Formulario DRCA-004\Formulario DRCA-004\obj\Debug\Formulario_DRCA_004.FormReporte.resources

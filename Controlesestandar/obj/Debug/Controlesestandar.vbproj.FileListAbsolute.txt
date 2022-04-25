@@ -10,3 +10,15 @@ C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\Controlesestandar\obj\Debug\C
 C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\Controlesestandar\obj\Debug\Controlesestandar.xml
 C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\Controlesestandar\obj\Debug\Controlesestandar.pdb
 C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\Controlesestandar\obj\Debug\Controlesestandar.OtroForm.resources
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\bin\Debug\Controlesestandar.exe.config
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\bin\Debug\Controlesestandar.exe
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\bin\Debug\Controlesestandar.pdb
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\bin\Debug\Controlesestandar.xml
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.vbprojResolveAssemblyReference.cache
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.Form1.resources
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.OtroForm.resources
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.Resources.resources
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.vbproj.GenerateResource.Cache
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.exe
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.xml
+C:\Users\dryme\Desktop\Progra\5C\Controlesestandar\controles-visualbasic\Controlesestandar\obj\Debug\Controlesestandar.pdb
